@@ -9,7 +9,7 @@ body {
   overflow: hidden;
   margin: 0;
   background: #111;
-  height: 100vh;
+  height: 300vh;
   display: flex;
   justify-content: center; /*возможно глючил - есть задержка сервера виртуального - тут пока четко  */
   align-items: center;
